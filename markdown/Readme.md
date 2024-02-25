@@ -8,5 +8,5 @@
 - tables
 - links
 - images
-- autolinks
-- 
+- autolists
+- lists
